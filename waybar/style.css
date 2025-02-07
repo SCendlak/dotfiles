@@ -1,0 +1,76 @@
+* {
+	font-family: "Fira Code" ;
+  padding: 0px 4px 0px 4px;
+  background: rgba(0, 0, 0, 0.2);
+  }
+
+  tooltip{
+    opacity: 0.75;
+  }
+  
+  #waybar {
+	/* background: #171717; */
+	color: #fff;
+  }
+  
+  #clock {
+	color: #fff;
+  }
+  
+  #tray {
+	padding-left: 4px;
+  }
+  
+  #workspaces button:hover {
+	background-color: transparent;
+  }
+  
+  #workspaces button {
+	color: #737373;
+	border-radius: 0px;
+  }
+  
+  #workspaces button:hover {
+	background-color: #262626;
+  }
+  
+  #workspaces button.active {
+	color: #84cc16;
+  }
+  
+  #window {
+	color: #fff;
+  }
+  
+  #network {
+	color: #3b82f6;
+	margin: 4px;
+  }
+  
+  #pulseaudio {
+	color: #14b8a6;
+	margin-right: 4px;
+  }
+  
+  #cpu {
+	color: #0ea5e9;
+	margin-right: 4px;
+  }
+  
+  #temperature {
+	color: #eab308;
+	margin-right: 4px;
+  }
+  
+  #memory {
+	color: #d946ef;
+	margin-right: 4px;
+  }
+  
+  #custom-powermenu {
+	color: #f43f5e;
+  }
+
+  #custom-spotify{
+    color: #1ED760;
+  }
